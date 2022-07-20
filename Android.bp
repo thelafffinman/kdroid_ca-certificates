@@ -26,7 +26,6 @@ license {
     license_kinds: [
         "legacy_by_exception_only", // by exception only
     ],
-    license_text: [],
 }
 
 ca_certificates {
